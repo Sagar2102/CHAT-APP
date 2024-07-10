@@ -38,9 +38,3 @@ Make sure you have the following installed:
 - MongoDB
 - npm or yarn
 
-## ⚙️ Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/mern-chat-app.git
-   cd mern-chat-app
